@@ -1,0 +1,11 @@
+Q1 -
+    small multiple -> Vega Lite
+    multi line -> Tableau
+
+Q2 -    
+    slope chart - tableau
+    small multiple - Vega Lite
+
+Q3-
+    line chart - Tableau    
+    
